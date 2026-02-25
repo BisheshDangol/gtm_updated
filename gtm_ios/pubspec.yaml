@@ -5,7 +5,7 @@ issue_tracker: https://github.com/Heewookji/gtm/issues
 version: 0.1.1
 
 environment:
-  sdk: '>=2.18.4 <3.0.0'
+  sdk: ">=2.18.4 <4.0.0"
   flutter: ">=3.0.0"
 
 flutter:
@@ -24,4 +24,4 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^6.0.0
